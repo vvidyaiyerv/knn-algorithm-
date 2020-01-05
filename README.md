@@ -9,4 +9,5 @@ classification: 2 class classification problem.
 References:-
 The dataset used is derived from the following:-
  Doytchinova IA, Flower DR, Identifying candidate subunit vaccines using an alignment-independent method based on principal amino acid properties, Vaccine (2006), doi:10.1016/j.vaccine.2006.09.032
+ 
 The dataset is protein sequences which are bacterial antigens and non-antigens
